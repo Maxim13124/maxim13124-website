@@ -44286,7 +44286,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-1 {
   width: 40px;
   height: 40px;
-  margin: 32px 50px 0 auto;
+  margin: 32px 105px 0 auto;
   padding: 0;
 }
 
@@ -44300,18 +44300,11 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-3 {
   width: 40px;
   height: 40px;
-  margin: -40px 215px 0 auto;
+  margin: -40px 50px 0 auto;
   padding: 0;
 }
 
 .u-footer .u-icon-4 {
-  width: 40px;
-  height: 40px;
-  margin: -40px 105px 0 auto;
-  padding: 0;
-}
-
-.u-footer .u-icon-5 {
   width: 64px;
   height: 64px;
   margin: -52px auto 0 50px;
@@ -44329,24 +44322,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-footer .u-icon-1 {
-    margin-right: 50px;
+    margin-right: 105px;
   }
 
   .u-footer .u-icon-2 {
-    width: 40px;
     margin-right: 160px;
   }
 
   .u-footer .u-icon-3 {
-    width: 40px;
-    margin-right: 215px;
+    margin-right: 50px;
   }
 
   .u-footer .u-icon-4 {
-    margin-right: 105px;
-  }
-
-  .u-footer .u-icon-5 {
     margin-top: -52px;
   }
 
@@ -44354,11 +44341,7 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 28px;
   }
 }
-@media (max-width: 991px) {
-  .u-footer .u-icon-5 {
-    margin-top: -52px;
-  }
-}
+
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
     min-height: 148px;
@@ -44366,25 +44349,20 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-icon-1 {
     margin-right: auto;
-    margin-left: 333px;
+    margin-left: 223px;
   }
 
   .u-footer .u-icon-2 {
     margin-right: auto;
-    margin-left: 223px;
+    margin-left: 168px;
   }
 
   .u-footer .u-icon-3 {
     margin-right: auto;
-    margin-left: 168px;
-  }
-
-  .u-footer .u-icon-4 {
-    margin-right: auto;
     margin-left: 278px;
   }
 
-  .u-footer .u-icon-5 {
+  .u-footer .u-icon-4 {
     width: 40px;
     height: 40px;
     margin-top: 27px;
@@ -44408,22 +44386,18 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-icon-1 {
     margin-top: 30px;
-    margin-left: 257px;
-  }
-
-  .u-footer .u-icon-2 {
     margin-left: 114px;
   }
 
-  .u-footer .u-icon-3 {
+  .u-footer .u-icon-2 {
     margin-left: 43px;
   }
 
-  .u-footer .u-icon-4 {
+  .u-footer .u-icon-3 {
     margin-left: 186px;
   }
 
-  .u-footer .u-icon-5 {
+  .u-footer .u-icon-4 {
     margin-top: 35px;
     padding: 4px;
   }
